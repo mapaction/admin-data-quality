@@ -4,7 +4,9 @@ This repository is a placeholder for future work needed to develop data quality 
 
 ### Background
 
-Our data collection efforts (manual or automated) often leave us with multiple options for the same geographic feature. For example, we may find ourselves with administrative boundary datasets from [OSM](https://www.openstreetmap.org/#map=16/51.7012/-0.9095), [GADM](https://gadm.org/), [CODs](https://data.humdata.org/dashboards/cod), and [geoBoundaries](https://www.geoboundaries.org/). It is time consuming to compare each of these options manually. We need an automated way to assess the quality of various administrative boundary datasets, allowing us to make a well-informed selection about the best available option to use in our humanitarian mapping.
+Admin boundary data (at various scales) is a key input for almost all of the map products that we produce. You can see examples of these products on our website [here](https://guides.mapaction.org/).
+
+Our data collection efforts (manual or automated) often leave us with multiple options for the same geographic feature. For example, we may find ourselves with administrative boundary datasets from [OSM](https://www.openstreetmap.org/#map=16/51.7012/-0.9095), [GADM](https://gadm.org/), [CODs](https://data.humdata.org/dashboards/cod), and [geoBoundaries](https://www.geoboundaries.org/). It is time consuming to compare each of these options manually. We need an automated way to assess the quality of various administrative boundary datasets, allowing us to make a well-informed selection about the best available option to use in our humanitarian mapping. 
 
 ### Desired outcome
 
